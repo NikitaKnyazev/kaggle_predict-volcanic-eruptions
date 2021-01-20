@@ -22,7 +22,7 @@ https://www.kaggle.com/c/predict-volcanic-eruptions-ingv-oe/overview
 Для соревнования отправил результат модели случайного леса (submission_forest.csv)
 <br>
 # Результат
-Соревнование закончилось 07.01.2021, поэтому в таблицу не попал.
-Private Score - 6873452
-Public Score - 6778696
-Это примерно 391/620 место
+Соревнование закончилось 07.01.2021, поэтому в таблицу не попал.<br>
+Private Score - 6873452<br>
+Public Score - 6778696<br>
+Это примерно 391/620 место<br>
